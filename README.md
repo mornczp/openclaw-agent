@@ -17,4 +17,5 @@ This project includes three core agents:
 
 ## logic diagram
 
-<img width="349" height="641" alt="openclaw-agent drawio" src="https://github.com/user-attachments/assets/561bb585-135c-43b2-b1a4-a017d2bce691" />
+<img width="698" height="1282" alt="openclaw-agent drawio" src="https://github.com/user-attachments/assets/00e09b35-45c5-4031-b1b8-2161fd7c8ba0" />
+
