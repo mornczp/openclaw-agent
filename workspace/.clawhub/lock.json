@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "serpapi-search": {
+      "version": "1.0.0",
+      "installedAt": 1773734180519
+    },
+    "Wechat-Article-Search": {
+      "version": "0.1.0",
+      "installedAt": 1773756422402
+    },
+    "openclaw-log-analyzer": {
+      "version": "1.0.0",
+      "installedAt": 1773819581254
+    },
+    "log-analyzer": {
+      "version": "1.0.0",
+      "installedAt": 1773819824664
+    }
+  }
+}
