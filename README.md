@@ -14,3 +14,7 @@ This project includes three core agents:
 
 - **A管代** – Multi-Agent Coordination Agent  
   Breaks down complex, ambiguous tasks through multi-turn dialogue, decomposes them into executable subtasks, and dispatches them to specialized agents, turning unstructured demands into standardized multi-agent workflows.
+
+## logic diagram
+
+<img width="349" height="641" alt="openclaw-agent drawio" src="https://github.com/user-attachments/assets/561bb585-135c-43b2-b1a4-a017d2bce691" />
